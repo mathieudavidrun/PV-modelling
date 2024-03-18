@@ -1,0 +1,6 @@
+﻿Name,Technology,Bifacial,STC,PTC,A_c,Length,Width,N_s,I_sc_ref,V_oc_ref,I_mp_ref,V_mp_ref,alpha_sc,beta_oc,T_NOCT,a_ref,I_L_ref,I_o_ref,R_s,R_sh_ref,Adjust,gamma_r,BIPV,Version,Date
+Units,,,,,m2,m,m,,A,V,A,V,A/K,V/K,C,V,A,A,Ohm,Ohm,%,%/K,,,
+[0],cec_material,lib_is_bifacial,,,cec_area,,,cec_n_s,cec_i_sc_ref,cec_v_oc_ref,cec_i_mp_ref,cec_v_mp_ref,cec_alpha_sc,cec_beta_oc,cec_t_noct,cec_a_ref,cec_i_l_ref,cec_i_o_ref,cec_r_s,cec_r_sh_ref,cec_adjust,cec_gamma_r,,,
+TENESOL_TE2000_200W,multiSi,0,200.25,147.8,1.325126,1.510,0.995,54,8.0,32.9,7.5,26.7,0.0044,-0.1161,45.0,,,,,,,-0.46,N,Custom,01/03/2019
+TRINA_TSM_DE09_08_395W,monoSi,0,395,298,1.922384,1.754,1.096,120,12.21,41.0,11.62,34.0,0.004884,-0.1025,43.0,,,,,,,-0.34,N,Custom,2020
+SHARP_NEQ5E3E_165W,multiSi,0,165,144.600000,1.30095,1.575,0.826,72,5.46,43.1,4.77,34.6,0.003306,-0.152586,50.200000,,,,,,,-0.451605,N,Custom,2002
